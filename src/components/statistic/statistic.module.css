@@ -1,0 +1,28 @@
+.statistics{
+    text-align: center;
+    
+
+}
+.statList{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-bottom: 50px;
+}
+.title{
+    margin-top: 50px;
+    color: gray;
+}
+.item{
+    border: solid 1px gray;
+    border-radius: 6px;
+    padding: 15px 20px ; 
+    box-shadow: 5px 5px 5px 0px gray; 
+}
+.label{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+    margin: 0;
+}
